@@ -16,6 +16,7 @@ int main()
     int x;
     cout<<"enter the no"<<endl;
     cin>>x;
+	cout<<"Hello";
 	Prime(x) ? cout <<endl<< x << " is a prime no \n" : cout << x << " is not a prime no\n";
 	return 0;
 }
